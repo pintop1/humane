@@ -1,0 +1,2 @@
+sudo vim /usr/local/apache/conf/httpd.conf
+[centos@server ~]$ sudo httpd restart
